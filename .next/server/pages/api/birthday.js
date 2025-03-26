@@ -29,7 +29,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \**************************************/
 /***/ ((module) => {
 
-module.exports = JSON.parse('{"greeting":"👋 Hi","name":" Riyah ;)","greetingText":"Do you know what today is?!?!","wishText":"You\'re stuck with me, whether you like it or not 😈 ","imagePath":"img/devil.png","text1":"It\'s your birthday!!! :D","textInChatBox":"Happy birthday to you!! 🎉🎉 Yeee! Many many happy blah...","sendButtonLabel":"Send","text2":"That\'s what I was going to do.","text3":"But then I stopped.","text4":"Bcuz I realised, I wanted to do something","text4Adjective":"special","text5Entry":"Because,","text5Content":"You are Special","smiley":" :)","bigTextPart1":"S","bigTextPart2":"OOOO","wishHeading":"Happy Birthday!","outroText":"how does it feel to be 18 shawty???","replayText":"was my coding tough? click here to watch it again","outroSmiley":":)"}');
+module.exports = JSON.parse('{"greeting":"👋 Hi","name":" Riyah ;)","greetingText":"Do you know what today is?!?!","wishText":"You\'re stuck with me, whether you like it or not 😈 ","imagePath":"img/devil.png","text1":"It\'s your birthday!!! :D","textInChatBox":"Happy birthday to you!! 🎉🎉 Yeee! Many many happy blah...","sendButtonLabel":"Send","text2":"That\'s what I was going to do.","text3":"But then I stopped.","text4":"Bcuz that\'s boring, and I wanted to do something ","text4Adjective":"special","text5Entry":"Because,","text5Content":"You are Special","smiley":" :)","bigTextPart1":"S","bigTextPart2":"OOOO","wishHeading":"Happy Birthday!","outroText":"how does it feel to be 18 shawty???","replayText":"was my coding tough? click here to watch it again","outroSmiley":":)"}');
 
 /***/ })
 
